@@ -4,7 +4,7 @@ This repo provides a KCL theme for the open source HTML presentation framework [
 
 ## Get Started
 
-1. `git clone`
+1. `git clone https://github.com/heyheydanhey/reveal.js.kcl.git`
 2. `cd reveal.js.kcl && npm build`
 3. `npm start`
 4. Open the url printed, typically [http://0.0.0.0:8000/](http://0.0.0.0:8000/).

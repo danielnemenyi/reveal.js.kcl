@@ -22,6 +22,34 @@
 @import url(./fonts/league-gothic/league-gothic.css);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
 
+// import Carlito font
+@font-face {
+    font-family: 'Carlito';
+    src: url('./fonts/carlito/Carlito-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Carlito';
+    src: url('./fonts/carlito/Carlito-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Carlito';
+    src: url('./fonts/carlito/Carlito-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: regular;
+}
+
+@font-face {
+    font-family: 'Carlito';
+    src: url('./fonts/carlito/Carlito-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
 
 // Override theme settings (see ../template/settings.scss)
 // Calibri is a MS Windows-only font. Carlito is a free alternative.

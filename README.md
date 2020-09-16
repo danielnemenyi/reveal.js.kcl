@@ -15,13 +15,5 @@ The default slides work with the light background. To switch a slide to the dark
 
 `<section data-background-color="#0a2d50" class="title">Slide content</section>`
 
-## Dependencies
-
-Aside from npm, if you are not on a Windows computer you may wish to install the Calibri-like font [Carlito](https://fontlibrary.org/en/font/carlito).
-
-On Debian and Ubuntu:
-
-`sudo apt install fonts-crosextra-carlito`
-
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).

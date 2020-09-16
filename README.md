@@ -17,3 +17,8 @@ The default slides work with the light background. To switch a slide to the dark
 
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
+
+## TODO
+
+- Make the KCL logo available
+- Set up templates

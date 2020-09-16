@@ -11,9 +11,9 @@ This repo provides a KCL theme for the open source HTML presentation framework [
 
 ## Theme
 
-The default slides work with the light background. To switch a slide to the dark background, set the html attribute data-background-color to #0a2d50:
+The default slides work with the light background. To switch a slide to the dark background, set the html attribute `data-background-color` to `#0a2d50`:
 
-`<section data-background-color="#0a2d50" class="title">Slide content</section>`
+`<section data-background-color="#0a2d50">Slide content</section>`
 
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
